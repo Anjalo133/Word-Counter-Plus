@@ -13,7 +13,7 @@ characters selected as well as the average and longest word length. Unlike
 similar word counting extensions, this one does not open an external webpage
 just to do the counting, nor does it require any permissions.
 
-You can install this Chrome Extension [here](https://chrome.google.com/webstore/detail/fpjegfbcdijjfkceenlfoehpcakfgldj).
+You can install this Chrome Extension  [here](https://chrome.google.com/webstore/detail/fpjegfbcdijjfkceenlfoehpcakfgldj).
 
 ## Screenshots
 
